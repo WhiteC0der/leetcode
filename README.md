@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/WhiteC0der/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
