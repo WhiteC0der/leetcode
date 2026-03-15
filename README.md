@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
@@ -23,6 +25,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 ## Array
 |  |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
