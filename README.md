@@ -37,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
@@ -49,6 +50,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -60,6 +62,7 @@
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## String
 |  |
 | ------- |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Topological Sort
 |  |
 | ------- |
