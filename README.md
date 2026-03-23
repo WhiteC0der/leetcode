@@ -45,6 +45,7 @@
 | [0118-pascals-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WhiteC0der/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
+| [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
+| [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/WhiteC0der/leetcode/tree/master/0146-lru-cache) |
+| [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
+| [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Topological Sort
 |  |
