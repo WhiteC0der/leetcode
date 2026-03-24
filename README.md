@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,4 +147,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/WhiteC0der/leetcode/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
