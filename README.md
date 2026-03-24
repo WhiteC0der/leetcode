@@ -8,6 +8,7 @@
 | [0098-validate-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/WhiteC0der/leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WhiteC0der/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/WhiteC0der/leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WhiteC0der/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
@@ -158,6 +160,7 @@
 | [0098-validate-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/WhiteC0der/leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WhiteC0der/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0098-validate-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/WhiteC0der/leetcode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/WhiteC0der/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
