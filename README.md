@@ -12,6 +12,7 @@
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/WhiteC0der/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -23,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
@@ -40,6 +42,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/WhiteC0der/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -77,6 +80,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
@@ -179,4 +183,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0099-recover-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
