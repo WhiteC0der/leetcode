@@ -71,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/WhiteC0der/leetcode/tree/master/0013-roman-to-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/WhiteC0der/leetcode/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/WhiteC0der/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -107,6 +109,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/WhiteC0der/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/WhiteC0der/leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/WhiteC0der/leetcode/tree/master/0146-lru-cache) |
