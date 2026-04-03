@@ -1,11 +1,17 @@
 class Solution {
 public:
-    vector<int> dp = vector<int>(46, -1);
     int climbStairs(int n) {
-        if(n<0) return 0;
-        if(dp[n]!=-1) return dp[n];
-        if(n==0) return 1;
+        if(n<=2) return n;
+        int a=1;
+        int b=2;
+        int c;
 
-        return dp[n] = climbStairs(n-1)+climbStairs(n-2);
+        for(int i=3;i<=n;i++){
+            c=a+b;
+            a=b;
+            b=c;
+        }
+
+        return c;
     }
 };
