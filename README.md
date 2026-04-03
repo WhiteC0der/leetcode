@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/WhiteC0der/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
@@ -167,6 +168,7 @@
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/WhiteC0der/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WhiteC0der/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
@@ -226,5 +228,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
