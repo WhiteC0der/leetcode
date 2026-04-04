@@ -67,6 +67,7 @@
 | [0198-house-robber](https://github.com/WhiteC0der/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/WhiteC0der/leetcode/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/WhiteC0der/leetcode/tree/master/0994-rotting-oranges) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
@@ -169,6 +171,7 @@
 | [0031-next-permutation](https://github.com/WhiteC0der/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,4 +243,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
