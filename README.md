@@ -64,6 +64,7 @@
 | [0073-set-matrix-zeroes](https://github.com/WhiteC0der/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/WhiteC0der/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WhiteC0der/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/WhiteC0der/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WhiteC0der/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/WhiteC0der/leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -181,6 +183,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/WhiteC0der/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/WhiteC0der/leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
