@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/WhiteC0der/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/WhiteC0der/leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/WhiteC0der/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
@@ -174,6 +175,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/WhiteC0der/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/WhiteC0der/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
