@@ -296,4 +296,8 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/WhiteC0der/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/WhiteC0der/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
