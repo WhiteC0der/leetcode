@@ -85,6 +85,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/WhiteC0der/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/WhiteC0der/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0146-lru-cache](https://github.com/WhiteC0der/leetcode/tree/master/0146-lru-cache) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/WhiteC0der/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/WhiteC0der/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/WhiteC0der/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Topological Sort
 |  |
 | ------- |
