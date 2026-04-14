@@ -138,6 +138,7 @@
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/WhiteC0der/leetcode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/WhiteC0der/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/WhiteC0der/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -220,6 +221,7 @@
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/WhiteC0der/leetcode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -233,6 +235,7 @@
 | [0198-house-robber](https://github.com/WhiteC0der/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/WhiteC0der/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/WhiteC0der/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
