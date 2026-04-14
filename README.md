@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
+| [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -136,6 +137,7 @@
 | [0014-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/WhiteC0der/leetcode/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/WhiteC0der/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/WhiteC0der/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -239,11 +241,13 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/WhiteC0der/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/WhiteC0der/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
