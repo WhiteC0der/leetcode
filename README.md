@@ -137,6 +137,7 @@
 | [0014-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/WhiteC0der/leetcode/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/WhiteC0der/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/WhiteC0der/leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -157,6 +158,7 @@
 | [0076-minimum-window-substring](https://github.com/WhiteC0der/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/WhiteC0der/leetcode/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/WhiteC0der/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/WhiteC0der/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -323,6 +325,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/WhiteC0der/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/WhiteC0der/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Database
@@ -333,4 +336,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/WhiteC0der/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
