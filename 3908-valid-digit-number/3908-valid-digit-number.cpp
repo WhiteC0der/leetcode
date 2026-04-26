@@ -1,15 +1,12 @@
 class Solution {
 public:
     bool validDigit(int n, int x) {
-        string num = to_string(n);
-        if(num[0]-'0'==x){
-            return false;
+        bool ans = false;
+        while(n >9){
+            if(n%10 == x) ans= true;
+            n/=10;
         }
 
-        for(int i=1;i<num.length();i++){
-            if(num[i]-'0'==x) return true;
-        }
-
-        return false;
+        return (ans && n!=x);
     }
 };
