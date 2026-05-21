@@ -7,7 +7,7 @@ public:
         if(i==m-1 && j==n-1){
             return grid[i][j];
         }
-        if(i<0 || j<0 || i>=m || j>=n){
+        if(i>=m || j>=n){
             return INT_MAX;
         }
 
