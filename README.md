@@ -96,6 +96,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/WhiteC0der/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/WhiteC0der/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -161,6 +162,7 @@
 | [1143-longest-common-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/WhiteC0der/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/WhiteC0der/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/WhiteC0der/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
