@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int t[101];
-    int solve(int i,vector<int>& nums){
-        if(i>=nums.size()){
-            return 0;
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        if(n==1) return nums[0];
+        vector<int> t(n+1,-1);
+        t[0]=0;
+        t[1]=nums[0];
+        for(int i=2;i<=n;i++){
+            t[i] =max(t[i-2]+nums[i-1],t[i-1]);
         }
 
-        if(t[i]!=-1) return t[i];
-
-        return t[i] = max(nums[i]+solve(i+2,nums),solve(i+1,nums));
-    }
-    int rob(vector<int>& nums) {
-        memset(t,-1,sizeof(t)); // Array dynamic memset function
-        return solve(0,nums);
+        return t[n]; 
     }
 };
