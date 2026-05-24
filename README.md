@@ -66,6 +66,7 @@
 | [0037-sudoku-solver](https://github.com/WhiteC0der/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/WhiteC0der/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/WhiteC0der/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/WhiteC0der/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/WhiteC0der/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WhiteC0der/leetcode/tree/master/0064-minimum-path-sum) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/WhiteC0der/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -257,6 +259,7 @@
 | [0042-trapping-rain-water](https://github.com/WhiteC0der/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/WhiteC0der/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/WhiteC0der/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/WhiteC0der/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/WhiteC0der/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WhiteC0der/leetcode/tree/master/0064-minimum-path-sum) |
