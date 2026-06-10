@@ -191,6 +191,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/WhiteC0der/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/WhiteC0der/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/WhiteC0der/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/WhiteC0der/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Linked List
 |  |
