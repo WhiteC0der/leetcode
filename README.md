@@ -225,6 +225,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/WhiteC0der/leetcode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -282,6 +283,7 @@
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/WhiteC0der/leetcode/tree/master/0567-permutation-in-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/WhiteC0der/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/WhiteC0der/leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/WhiteC0der/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -317,6 +319,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
