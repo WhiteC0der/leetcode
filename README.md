@@ -178,6 +178,7 @@
 | [0013-roman-to-integer](https://github.com/WhiteC0der/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/WhiteC0der/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/WhiteC0der/leetcode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
@@ -304,6 +305,7 @@
 | [0063-unique-paths-ii](https://github.com/WhiteC0der/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/WhiteC0der/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/WhiteC0der/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WhiteC0der/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
