@@ -192,6 +192,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/WhiteC0der/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/WhiteC0der/leetcode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/WhiteC0der/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/WhiteC0der/leetcode/tree/master/0752-open-the-lock) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1092-shortest-common-supersequence](https://github.com/WhiteC0der/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -320,6 +321,7 @@
 | [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/WhiteC0der/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
+| [0583-delete-operation-for-two-strings](https://github.com/WhiteC0der/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/WhiteC0der/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/WhiteC0der/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
