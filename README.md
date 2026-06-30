@@ -202,6 +202,7 @@
 | [1092-shortest-common-supersequence](https://github.com/WhiteC0der/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/WhiteC0der/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/WhiteC0der/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/WhiteC0der/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/WhiteC0der/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/WhiteC0der/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -227,6 +228,7 @@
 | [0752-open-the-lock](https://github.com/WhiteC0der/leetcode/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/WhiteC0der/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/WhiteC0der/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/WhiteC0der/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/WhiteC0der/leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -406,6 +408,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/WhiteC0der/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/WhiteC0der/leetcode/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/WhiteC0der/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Memoization
 |  |
 | ------- |
