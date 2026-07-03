@@ -35,6 +35,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/WhiteC0der/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/WhiteC0der/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/WhiteC0der/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/WhiteC0der/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/WhiteC0der/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/WhiteC0der/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/WhiteC0der/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -166,6 +169,7 @@
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/WhiteC0der/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
@@ -180,6 +184,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/WhiteC0der/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/WhiteC0der/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -392,6 +397,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
