@@ -18,9 +18,10 @@ public:
             adj[ed[1]].push_back(ed[0]);
         }
 
+        vector<int> temp;
         for(int i=0;i<n;i++){
-            vector<int> temp;
             if(!vis[i]){
+                temp.clear();
                 dfs(i,adj,vis,temp);
                 int j;
                 for(j=0;j<temp.size();j++){
