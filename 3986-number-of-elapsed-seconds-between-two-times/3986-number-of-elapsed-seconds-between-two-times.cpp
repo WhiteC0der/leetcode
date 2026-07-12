@@ -12,6 +12,6 @@ public:
         st= stoi(sh)*60*60 + stoi(sm)*60 +stoi(ss);
         end= stoi(eh)*60*60 + stoi(em)*60 +stoi(es);
 
-        return sh <= eh ? end-st : end+24*60*60 -st;
+        return st <= end ? end-st : end+24*60*60 -st;
     }
 };
