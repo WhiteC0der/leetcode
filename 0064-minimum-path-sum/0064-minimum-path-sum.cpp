@@ -4,21 +4,20 @@ public:
     int n;
     int dp[201][201];
     int solve(int i,int j,vector<vector<int>>& grid){
-        if(i==m-1 && j==n-1){
+        if(i==0 && j==0){
             return grid[i][j];
         }
-        if(i>=m || j>=n){
+        if(i<0 || j<0){
             return INT_MAX;
         }
-
         if(dp[i][j]!=-1) return dp[i][j];
 
-        return dp[i][j] = grid[i][j]+ min(solve(i+1,j,grid),solve(i,j+1,grid));
+        return dp[i][j] = grid[i][j]+min(solve(i-1,j,grid),solve(i,j-1,grid));
     }
     int minPathSum(vector<vector<int>>& grid) {
-        memset(dp,-1,sizeof(dp));
         m=grid.size();
         n=grid[0].size();
-        return solve(0,0,grid);
+        memset(dp,-1,sizeof(dp));
+        return solve(m-1,n-1,grid);
     }
 };
