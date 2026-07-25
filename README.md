@@ -122,6 +122,7 @@
 | [2540-minimum-common-value](https://github.com/WhiteC0der/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/WhiteC0der/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/WhiteC0der/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2653-sliding-subarray-beauty](https://github.com/WhiteC0der/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -261,6 +262,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/WhiteC0der/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/WhiteC0der/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/WhiteC0der/leetcode/tree/master/2540-minimum-common-value) |
+| [2653-sliding-subarray-beauty](https://github.com/WhiteC0der/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -449,6 +451,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/WhiteC0der/leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/WhiteC0der/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2653-sliding-subarray-beauty](https://github.com/WhiteC0der/leetcode/tree/master/2653-sliding-subarray-beauty) |
 ## Memoization
 |  |
 | ------- |
