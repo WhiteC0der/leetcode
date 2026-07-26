@@ -94,6 +94,7 @@
 | [0287-find-the-duplicate-number](https://github.com/WhiteC0der/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/WhiteC0der/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/WhiteC0der/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0752-open-the-lock](https://github.com/WhiteC0der/leetcode/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -147,6 +148,7 @@
 | [0062-unique-paths](https://github.com/WhiteC0der/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/WhiteC0der/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/WhiteC0der/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/WhiteC0der/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -312,6 +314,7 @@
 | [0088-merge-sorted-array](https://github.com/WhiteC0der/leetcode/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/WhiteC0der/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/WhiteC0der/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/WhiteC0der/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/WhiteC0der/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/WhiteC0der/leetcode/tree/master/1331-rank-transform-of-an-array) |
