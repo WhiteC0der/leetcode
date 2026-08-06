@@ -109,6 +109,7 @@
 | [1288-remove-covered-intervals](https://github.com/WhiteC0der/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/WhiteC0der/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/WhiteC0der/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/WhiteC0der/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/WhiteC0der/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/WhiteC0der/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -157,6 +158,7 @@
 | [0509-fibonacci-number](https://github.com/WhiteC0der/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/WhiteC0der/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/WhiteC0der/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/WhiteC0der/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/WhiteC0der/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -397,6 +399,7 @@
 | [1092-shortest-common-supersequence](https://github.com/WhiteC0der/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/WhiteC0der/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/WhiteC0der/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/WhiteC0der/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/WhiteC0der/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -553,4 +556,16 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/WhiteC0der/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/WhiteC0der/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/WhiteC0der/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
