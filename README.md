@@ -133,6 +133,7 @@
 | [2653-sliding-subarray-beauty](https://github.com/WhiteC0der/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/WhiteC0der/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/WhiteC0der/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -283,6 +284,7 @@
 | [2653-sliding-subarray-beauty](https://github.com/WhiteC0der/leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/WhiteC0der/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/WhiteC0der/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/WhiteC0der/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -343,6 +345,7 @@
 | [2126-destroying-asteroids](https://github.com/WhiteC0der/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/WhiteC0der/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/WhiteC0der/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/WhiteC0der/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/WhiteC0der/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/WhiteC0der/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/WhiteC0der/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
