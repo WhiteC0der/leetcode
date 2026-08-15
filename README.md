@@ -146,6 +146,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/WhiteC0der/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/WhiteC0der/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/WhiteC0der/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/WhiteC0der/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/WhiteC0der/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WhiteC0der/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/WhiteC0der/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -500,6 +501,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/WhiteC0der/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/WhiteC0der/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/WhiteC0der/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/WhiteC0der/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Data Stream
 |  |
 | ------- |
