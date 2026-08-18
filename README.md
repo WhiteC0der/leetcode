@@ -140,6 +140,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/WhiteC0der/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/WhiteC0der/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/WhiteC0der/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/WhiteC0der/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/WhiteC0der/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/WhiteC0der/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/WhiteC0der/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -292,6 +293,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/WhiteC0der/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/WhiteC0der/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/WhiteC0der/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/WhiteC0der/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/WhiteC0der/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/WhiteC0der/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WhiteC0der/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
