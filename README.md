@@ -12,6 +12,7 @@
 | [0200-number-of-islands](https://github.com/WhiteC0der/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/WhiteC0der/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/WhiteC0der/leetcode/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/WhiteC0der/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0743-network-delay-time](https://github.com/WhiteC0der/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/WhiteC0der/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/WhiteC0der/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -449,6 +450,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/WhiteC0der/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/WhiteC0der/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/WhiteC0der/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -460,6 +462,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/WhiteC0der/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/WhiteC0der/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/WhiteC0der/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -467,6 +470,7 @@
 | [0098-validate-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/WhiteC0der/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Shortest Path
 |  |
 | ------- |
