@@ -156,6 +156,7 @@
 | [3838-weighted-word-mapping](https://github.com/WhiteC0der/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/WhiteC0der/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4024-nearest-available-drone](https://github.com/WhiteC0der/leetcode/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -554,6 +555,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/WhiteC0der/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/WhiteC0der/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/WhiteC0der/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/WhiteC0der/leetcode/tree/master/4024-nearest-available-drone) |
 ## Prefix Sum
 |  |
 | ------- |
