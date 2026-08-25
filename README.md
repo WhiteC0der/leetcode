@@ -151,6 +151,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/WhiteC0der/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/WhiteC0der/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/WhiteC0der/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/WhiteC0der/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/WhiteC0der/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WhiteC0der/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/WhiteC0der/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -302,6 +303,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/WhiteC0der/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/WhiteC0der/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/WhiteC0der/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/WhiteC0der/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/WhiteC0der/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WhiteC0der/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3842-toggle-light-bulbs](https://github.com/WhiteC0der/leetcode/tree/master/3842-toggle-light-bulbs) |
