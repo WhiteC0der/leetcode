@@ -162,6 +162,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/WhiteC0der/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/WhiteC0der/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/WhiteC0der/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/WhiteC0der/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [4024-nearest-available-drone](https://github.com/WhiteC0der/leetcode/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
@@ -581,6 +582,7 @@
 | [1732-find-the-highest-altitude](https://github.com/WhiteC0der/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/WhiteC0der/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/WhiteC0der/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/WhiteC0der/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
