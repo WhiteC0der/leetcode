@@ -255,6 +255,7 @@
 | [0044-wildcard-matching](https://github.com/WhiteC0der/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/WhiteC0der/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/WhiteC0der/leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/WhiteC0der/leetcode/tree/master/0115-distinct-subsequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/WhiteC0der/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
@@ -421,6 +422,7 @@
 | [0064-minimum-path-sum](https://github.com/WhiteC0der/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/WhiteC0der/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/WhiteC0der/leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/WhiteC0der/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/WhiteC0der/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/WhiteC0der/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
