@@ -19,6 +19,7 @@
 | [1020-number-of-enclaves](https://github.com/WhiteC0der/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/WhiteC0der/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/WhiteC0der/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/WhiteC0der/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/WhiteC0der/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/WhiteC0der/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -476,6 +477,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/WhiteC0der/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/WhiteC0der/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/WhiteC0der/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,6 +490,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/WhiteC0der/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/WhiteC0der/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/WhiteC0der/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/WhiteC0der/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
