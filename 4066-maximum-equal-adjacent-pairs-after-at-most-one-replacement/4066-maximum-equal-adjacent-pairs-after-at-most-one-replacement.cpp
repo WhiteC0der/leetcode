@@ -1,10 +1,5 @@
 class Solution {
 public:
-//     struct pair_hash {
-//     size_t operator()(const pair<int,int>& p) const {
-//         return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
-//     }
-// };
     int maxEqualAdjacentPairs(vector<int>& nums) {
         map<pair<int,int>,int> mpp;
         int ans=0;
