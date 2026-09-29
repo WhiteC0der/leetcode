@@ -1,12 +1,12 @@
 class Solution {
 public:
-    struct pair_hash {
-    size_t operator()(const pair<int,int>& p) const {
-        return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
-    }
-};
+//     struct pair_hash {
+//     size_t operator()(const pair<int,int>& p) const {
+//         return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
+//     }
+// };
     int maxEqualAdjacentPairs(vector<int>& nums) {
-        unordered_map<pair<int,int>,int,pair_hash> mpp;
+        map<pair<int,int>,int> mpp;
         int ans=0;
         for(int i=1;i<nums.size();i++){
             if(nums[i]==nums[i-1]) ans++;
