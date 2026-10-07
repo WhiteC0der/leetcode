@@ -217,6 +217,7 @@
 | [0055-jump-game](https://github.com/WhiteC0der/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
 | [0846-hand-of-straights](https://github.com/WhiteC0der/leetcode/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/WhiteC0der/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/WhiteC0der/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/WhiteC0der/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/WhiteC0der/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -274,6 +275,7 @@
 | [0567-permutation-in-string](https://github.com/WhiteC0der/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/WhiteC0der/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/WhiteC0der/leetcode/tree/master/0752-open-the-lock) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/WhiteC0der/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/WhiteC0der/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1092-shortest-common-supersequence](https://github.com/WhiteC0der/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/WhiteC0der/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -466,6 +468,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/WhiteC0der/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/WhiteC0der/leetcode/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/WhiteC0der/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/WhiteC0der/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/WhiteC0der/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/WhiteC0der/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -650,6 +653,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/WhiteC0der/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/WhiteC0der/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/WhiteC0der/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
