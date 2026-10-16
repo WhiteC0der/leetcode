@@ -13,7 +13,6 @@ public:
                     cnt++;
                 }
                 cout<<freq[nums[i]];
-                cout<<cnt<<endl;
                 ans+=(cnt*cnt);
             }
         }
