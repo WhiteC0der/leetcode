@@ -2,10 +2,9 @@ class Solution {
 public:
     const int mod= 1e9+7;
     int numOfSubarrays(vector<int>& arr) {
-          long long odd = 0, even = 0;
+        long long odd = 0, even = 0;
         long long ans = 0;
-        int mod = 1e9 + 7;
-
+        
         for (int x : arr) {
             long long newOdd, newEven;
 
