@@ -118,6 +118,7 @@
 | [1386-cinema-seat-allocation](https://github.com/WhiteC0der/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/WhiteC0der/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/WhiteC0der/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/WhiteC0der/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/WhiteC0der/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WhiteC0der/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -192,6 +193,7 @@
 | [0836-rectangle-overlap](https://github.com/WhiteC0der/leetcode/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/WhiteC0der/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/WhiteC0der/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/WhiteC0der/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/WhiteC0der/leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/WhiteC0der/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -487,6 +489,7 @@
 | [1143-longest-common-subsequence](https://github.com/WhiteC0der/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/WhiteC0der/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/WhiteC0der/leetcode/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/WhiteC0der/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/WhiteC0der/leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/WhiteC0der/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/WhiteC0der/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -642,6 +645,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/WhiteC0der/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/WhiteC0der/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/WhiteC0der/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/WhiteC0der/leetcode/tree/master/2574-left-and-right-sum-differences) |
